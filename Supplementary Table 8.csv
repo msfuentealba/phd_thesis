@@ -1,0 +1,8 @@
+Data.source,p.value
+Genes,0.012
+PPI,0.012
+GO:BP,0.007
+GO:CC,0.010
+GO:MF,0.017
+KEGG,0.005
+Reactome,0.010
