@@ -1,11 +1,13 @@
 Mouse.gene,Human.gene,Drugbank.id,Drug.name,Status,Geroprotector
-Txnrd1,TXNRD1,DB01169,Arsenic trioxide,approved|investigational,FALSE
-Txnrd1,TXNRD1,DB02338,Nadph Dihydro-Nicotinamide-Adenine-Dinucleotidephosphate,experimental,FALSE
-Txnrd1,TXNRD1,DB03147,Flavin adenine dinucleotide,approved,FALSE
-Txnrd1,TXNRD1,DB03566,Spermidine,experimental,TRUE
-Txnrd1,TXNRD1,DB04106,Fotemustine,experimental,FALSE
-Txnrd1,TXNRD1,DB05428,motexafin gadolinium,investigational,FALSE
-Txnrd1,TXNRD1,DB05448,PX-12,investigational,FALSE
+Ahr,AHR,DB00379,Mexiletine,approved,FALSE
+Ahr,AHR,DB00393,Nimodipine,approved,FALSE
+Ahr,AHR,DB00499,Flutamide,approved,FALSE
+Ahr,AHR,DB01076,Atorvastatin,approved,FALSE
+Ahr,AHR,DB01097,Leflunomide,approved|investigational,FALSE
+Ahr,AHR,DB01404,Ginseng,approved|nutraceutical,FALSE
+Dbi,DBI,DB01992,Coenzyme A,nutraceutical,FALSE
+Dbi,DBI,DB03381,Hexadecanal,experimental,FALSE
+Keap1,KEAP1,DB08908,Dimethyl fumarate,approved|investigational,FALSE
 Mapk14,MAPK14,DB01761,4-[5-[2-(1-Phenyl-Ethylamino)-Pyrimidin-4-Yl]-1-Methyl-4-(3-Trifluoromethylphenyl)-1h-Imidazol-2-Yl]-Piperidine,experimental,FALSE
 Mapk14,MAPK14,DB01807,"N-[(3z)-5-Tert-Butyl-2-Phenyl-1,2-Dihydro-3h-Pyrazol-3-Ylidene]-N'-(4-Chlorophenyl)Urea",experimental,FALSE
 Mapk14,MAPK14,DB01948,"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One",experimental,FALSE
@@ -59,27 +61,6 @@ Mapk14,MAPK14,DB08424,"[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL](3-{[(2R)-2,3
 Mapk14,MAPK14,DB08521,4-[5-(4-FLUORO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-3H-IMIDAZOL-4-YL]-PYRIDINE,experimental,FALSE
 Mapk14,MAPK14,DB08522,4-(4-FLUOROPHENYL)-1-CYCLOROPROPYLMETHYL-5-(4-PYRIDYL)-IMIDAZOLE,experimental,FALSE
 Mapk14,MAPK14,DB08730,3-FLUORO-5-MORPHOLIN-4-YL-N-[1-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-6-YL]BENZAMIDE,experimental,FALSE
-Nr1i2,NR1I2,DB00163,Vitamin E,approved|nutraceutical|vet_approved,TRUE
-Nr1i2,NR1I2,DB00530,Erlotinib,approved|investigational,FALSE
-Nr1i2,NR1I2,DB00783,Estradiol,approved|investigational|vet_approved,TRUE
-Nr1i2,NR1I2,DB00977,Ethinyl Estradiol,approved,FALSE
-Nr1i2,NR1I2,DB01045,Rifampicin,approved,TRUE
-Nr1i2,NR1I2,DB01220,Rifaximin,approved|investigational,FALSE
-Nr1i2,NR1I2,DB01229,Paclitaxel,approved|vet_approved,FALSE
-Nr1i2,NR1I2,DB01248,Docetaxel,approved|investigational,FALSE
-Nr1i2,NR1I2,DB01708,Prasterone,approved|nutraceutical,FALSE
-Nr1i2,NR1I2,DB01892,Hyperforin,nutraceutical,FALSE
-Nr1i2,NR1I2,DB04466,SR12813,experimental,FALSE
-Nr1i2,NR1I2,DB07080,"N-(2,2,2-TRIFLUOROETHYL)-N-{4-[2,2,2-TRIFLUORO-1-HYDROXY-1-(TRIFLUOROMETHYL)ETHYL]PHENYL}BENZENESULFONAMIDE",experimental,FALSE
-Nr1i2,NR1I2,DB08864,Rilpivirine,approved,FALSE
-Ahr,AHR,DB00379,Mexiletine,approved,FALSE
-Ahr,AHR,DB00393,Nimodipine,approved,FALSE
-Ahr,AHR,DB00499,Flutamide,approved,FALSE
-Ahr,AHR,DB01076,Atorvastatin,approved,FALSE
-Ahr,AHR,DB01097,Leflunomide,approved|investigational,FALSE
-Ahr,AHR,DB01404,Ginseng,approved|nutraceutical,FALSE
-Dbi,DBI,DB01992,Coenzyme A,nutraceutical,FALSE
-Dbi,DBI,DB03381,Hexadecanal,experimental,FALSE
 Ncoa2,NCOA2,DB01645,Genistein,investigational,TRUE
 Ncoa2,NCOA2,DB02998,Methyltrienolone,experimental,FALSE
 Ncoa2,NCOA2,DB06871,17-METHYL-17-ALPHA-DIHYDROEQUILENIN,experimental,FALSE
@@ -103,4 +84,23 @@ Ncoa2,NCOA2,DB08402,"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC
 Ncoa2,NCOA2,DB08595,"4-[(1S,2R,5S)-4,4,8-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",experimental,FALSE
 Ncoa2,NCOA2,DB08601,tributylstannanyl,experimental,FALSE
 Ncoa2,NCOA2,DB08773,RALOXIFENE CORE,experimental,FALSE
-Keap1,KEAP1,DB08908,Dimethyl fumarate,approved|investigational,FALSE
+Nr1i2,NR1I2,DB00163,Vitamin E,approved|nutraceutical|vet_approved,TRUE
+Nr1i2,NR1I2,DB00530,Erlotinib,approved|investigational,FALSE
+Nr1i2,NR1I2,DB00783,Estradiol,approved|investigational|vet_approved,TRUE
+Nr1i2,NR1I2,DB00977,Ethinyl Estradiol,approved,FALSE
+Nr1i2,NR1I2,DB01045,Rifampicin,approved,TRUE
+Nr1i2,NR1I2,DB01220,Rifaximin,approved|investigational,FALSE
+Nr1i2,NR1I2,DB01229,Paclitaxel,approved|vet_approved,FALSE
+Nr1i2,NR1I2,DB01248,Docetaxel,approved|investigational,FALSE
+Nr1i2,NR1I2,DB01708,Prasterone,approved|nutraceutical,FALSE
+Nr1i2,NR1I2,DB01892,Hyperforin,nutraceutical,FALSE
+Nr1i2,NR1I2,DB04466,SR12813,experimental,FALSE
+Nr1i2,NR1I2,DB07080,"N-(2,2,2-TRIFLUOROETHYL)-N-{4-[2,2,2-TRIFLUORO-1-HYDROXY-1-(TRIFLUOROMETHYL)ETHYL]PHENYL}BENZENESULFONAMIDE",experimental,FALSE
+Nr1i2,NR1I2,DB08864,Rilpivirine,approved,FALSE
+Txnrd1,TXNRD1,DB01169,Arsenic trioxide,approved|investigational,FALSE
+Txnrd1,TXNRD1,DB02338,Nadph Dihydro-Nicotinamide-Adenine-Dinucleotidephosphate,experimental,FALSE
+Txnrd1,TXNRD1,DB03147,Flavin adenine dinucleotide,approved,FALSE
+Txnrd1,TXNRD1,DB03566,Spermidine,experimental,TRUE
+Txnrd1,TXNRD1,DB04106,Fotemustine,experimental,FALSE
+Txnrd1,TXNRD1,DB05428,motexafin gadolinium,investigational,FALSE
+Txnrd1,TXNRD1,DB05448,PX-12,investigational,FALSE
